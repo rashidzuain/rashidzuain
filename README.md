@@ -23,4 +23,4 @@ Soy **ingeniero de inteligencia artificial en formación** desde Buenos Aires, A
 ## 📧 Contacto
 
 - [LinkedIn](https://www.linkedin.com/in/rashidzuain/)
-- Correo: rashidzuain@example.com
+- Correo: rashidzuain@gmail.com
