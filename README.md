@@ -4,9 +4,8 @@ Soy **ingeniero de inteligencia artificial en formación** desde Buenos Aires, A
 
 ## 🛠️ Tecnologías y herramientas
 
-- **Lenguajes:**  Python, Java, JavaScript, C#, SQL
-- **Frameworks de  TensorFlow, PyTorch, scikit-learn, pandas, NumPy
-- **Desarrollo web y APIs:** Flask, FastAPI, HTML/CSS, REST, GraphQL
+- **Lenguajes:**  Python, Java, C, SQL
+- **Desarrollo web y APIs:** HTML/CSS
 - **DevOps & herramientas:** Git, GitHub Actions, Docker, Linux, VS Code  
 
 ## 🚀 Proyectos destacados
