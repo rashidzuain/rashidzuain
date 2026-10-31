@@ -1,26 +1,33 @@
-#  ¡Hola!, soy Rashid Zuain
+# Hola, soy Rashid Zuain 👋
 
-Soy **ingeniero de inteligencia artificial en formación** desde Buenos Aires, Argentina. Me apasiona desarrollar proyectos de IA, aprendizaje automático y automatización que aporten soluciones reales.
+**En formación en software e inteligencia artificial · Buenos Aires, Argentina**
 
-##  Tecnologías y herramientas
+Me interesa crear soluciones útiles con inteligencia artificial, aprendizaje automático y automatización. Estoy construyendo mi camino en estas áreas y este espacio reúne mis proyectos y mi aprendizaje.
 
-- **Lenguajes:**  Python, Java, C, SQL
-- **Desarrollo web y APIs:** HTML/CSS
-- **DevOps & herramientas:** Git, GitHub Actions, Docker, Linux, VS Code  
+## Un proyecto para conocer mi trabajo
 
-##  Proyectos destacados
+### [Diseño de automatización audiovisual con n8n](https://github.com/rashidzuain/privacidad-proyect-one)
 
-- **privacidad-proyect-one** – Automatiza la creación de políticas de privacidad y vídeos. Contiene un flujo de trabajo n8n para generar locuciones con HeyGen y transcribir audio automáticamente.  
-- **vsCurso.py** – Repositorio privado donde practico y desarrollo ejercicios de programación.  
-- Más proyectos de IA y software en camino…
+Diseño de dos flujos para organizar la creación de videos y la transcripción de audio:
 
-##  Estadísticas de GitHub
+- **Videos:** datos de Airtable → generación con HeyGen → actualización de registros → avisos en Slack.
+- **Audio:** recepción por webhook → servicio de transcripción → almacenamiento en Airtable → avisos en Slack.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rashidzuain&show_icons=true&theme=default)
+**Versión publicada:** diseño documentado en JSON; la implementación en n8n no está incluida. El repositorio también contiene una página HTML con la política de privacidad del proyecto.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rashidzuain&layout=compact)
+[Explorar el proyecto y su alcance →](https://github.com/rashidzuain/privacidad-proyect-one#readme)
 
-##  Contacto
+## Tecnologías y herramientas
 
-- [LinkedIn](https://www.linkedin.com/in/rashidzuain/)
-- Correo: rashidzuain@gmail.com
+- **Programación:** Python, Java, C y SQL.
+- **Web:** HTML y CSS.
+- **Herramientas:** Git, GitHub Actions, Docker, Linux y VS Code.
+- **En el diseño de automatizaciones:** n8n, Airtable, HeyGen, Slack y APIs HTTP.
+
+También practico programación en un repositorio privado.
+
+## Conversemos
+
+Si querés comentar un proyecto, intercambiar ideas o compartir una sugerencia, podés escribirme.
+
+[LinkedIn](https://www.linkedin.com/in/rashidzuain/) · [Correo](mailto:rashidzuain@gmail.com)
