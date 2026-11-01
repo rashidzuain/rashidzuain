@@ -1,4 +1,4 @@
-# Hola, soy Rashid 👋
+# Hola, soy Rashid
 
 **Rashid Zuain · Buenos Aires, Argentina**
 
