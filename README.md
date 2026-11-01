@@ -8,12 +8,12 @@ Estoy formándome en software e inteligencia artificial. Me interesan el aprendi
 
 ### [Automatización de videos y audio con n8n](https://github.com/rashidzuain/privacidad-proyect-one)
 
-Este proyecto parte de una idea: organizar la creación de videos y la transcripción de audio conectando distintas herramientas. El diseño tiene dos recorridos separados:
+Este proyecto parte de una idea: organizar la creación de videos y la transcripción de audio conectando distintas herramientas. Son dos recorridos separados:
 
 - **Para los videos:** tomar datos de Airtable, enviarlos a HeyGen, guardar el resultado y avisar por Slack.
 - **Para el audio:** recibir un archivo por webhook, enviarlo a un servicio de transcripción, guardar el texto en Airtable y avisar por Slack.
 
-Por ahora está publicado el diseño en JSON. La versión ejecutable en n8n no está incluida. En el repositorio también hay una página HTML con un texto de privacidad que sigue pendiente de revisión.
+El repositorio incluye los dos workflows para importar en n8n, una guía de configuración y pruebas con servicios simulados. La conexión con cuentas reales todavía está pendiente. También hay una página HTML con un texto de privacidad que sigue pendiente de revisión.
 
 [Ver el proyecto, el ejemplo y lo que falta implementar →](https://github.com/rashidzuain/privacidad-proyect-one#readme)
 
@@ -22,7 +22,7 @@ Por ahora está publicado el diseño en JSON. La versión ejecutable en n8n no e
 - **Programación:** Python, Java, C y SQL.
 - **Web:** HTML y CSS.
 - **Herramientas:** Git, GitHub Actions, Docker, Linux y VS Code.
-- **En el diseño de este proyecto:** n8n, Airtable, HeyGen, Slack y APIs HTTP.
+- **En este proyecto:** n8n, Airtable, HeyGen, Groq, Slack y APIs HTTP.
 
 También tengo un repositorio privado donde guardo apuntes.
 
