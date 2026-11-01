@@ -13,7 +13,7 @@ Diseño de dos flujos para organizar la creación de videos y la transcripción 
 - **Videos:** datos de Airtable → generación con HeyGen → actualización de registros → avisos en Slack.
 - **Audio:** recepción por webhook → servicio de transcripción → almacenamiento en Airtable → avisos en Slack.
 
-**Versión publicada:** diseño documentado en JSON; la implementación en n8n no está incluida. El repositorio también contiene una página HTML con la política de privacidad del proyecto.
+**Versión publicada:** diseño documentado en JSON; la implementación en n8n no está incluida. El repositorio también contiene una página HTML con un texto de privacidad pendiente de revisión.
 
 [Explorar el proyecto y su alcance →](https://github.com/rashidzuain/privacidad-proyect-one#readme)
 
@@ -24,7 +24,7 @@ Diseño de dos flujos para organizar la creación de videos y la transcripción 
 - **Herramientas:** Git, GitHub Actions, Docker, Linux y VS Code.
 - **En el diseño de automatizaciones:** n8n, Airtable, HeyGen, Slack y APIs HTTP.
 
-También practico programación en un repositorio privado.
+También mantengo un repositorio privado para apuntes.
 
 ## Conversemos
 
